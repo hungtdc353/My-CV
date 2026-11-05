@@ -6,16 +6,17 @@
 
 ### Chức năng mới
 
-- Trang CV cá nhân với các mục giới thiệu, kỹ năng, dự án và liên hệ.
-- Điều hướng nhanh đến từng mục trên trang.
-- Giao diện responsive cho điện thoại, máy tính bảng và máy tính để bàn.
+- Trang CV/portfolio cá nhân với các mục Giới thiệu, Kỹ năng, Dự án và Liên hệ.
+- Giao diện responsive, sử dụng Flexbox và CSS Grid để hiển thị trên nhiều kích thước màn hình.
+- Thanh điều hướng tới từng mục và các nút liên hệ/xem dự án.
 
 ### Lỗi đã sửa
 
-- Chưa ghi nhận lỗi được sửa trong phiên bản này.
+- Chưa có thông tin về lỗi đã sửa được ghi nhận cho phiên bản này.
 
 ### Hạn chế còn tồn tại
 
-- Một số liên kết dự án và mạng xã hội vẫn là liên kết placeholder.
-- Cần hoàn thiện markup của ảnh đại diện và liên kết email.
-- Nội dung hiện là trang tĩnh, chưa có chức năng xử lý dữ liệu hoặc cập nhật động.
+- Liên kết chi tiết dự án, GitHub và LinkedIn hiện là liên kết mẫu, chưa trỏ tới nội dung thật.
+- Chưa có thông tin xác nhận ảnh đại diện tồn tại trong thư mục tài nguyên.
+- Cần kiểm tra và hoàn thiện markup HTML tại ảnh đại diện và liên kết email trước khi phát hành chính thức.
+- Đây là trang tĩnh; chưa có backend hoặc chức năng gửi biểu mẫu liên hệ.
