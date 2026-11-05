@@ -50,7 +50,7 @@
 | Có thiết lập viewport và ngôn ngữ tài liệu | Đạt | `index.html` khai báo `lang="vi"` và thẻ viewport. |
 | Bố cục responsive trên mobile, tablet và desktop | Chưa đạt | Đã chụp và kiểm tra ảnh viewport tại `docs/screenshots/`. Ở 390×844, một số dòng chữ bị cắt theo chiều ngang; cần xử lý tràn nội dung. Tablet và desktop được ghi nhận bằng ảnh, chưa kiểm tra trên thiết bị vật lý. |
 | Ảnh đại diện hiển thị và có văn bản thay thế hợp lệ | Chưa đạt | Tệp `assets/img/avatar.jpg` tồn tại, nhưng thẻ `img` trong `index.html` thiếu dấu nháy đóng ở giá trị `alt`, khiến markup bị lỗi. |
-| Nhận diện và tiêu đề trang nhất quán | Chưa đạt | Nội dung trang giới thiệu Trần Đức Chí Hưng nhưng phần tử `<title>` ghi “Nguyễn Văn An · Frontend Developer”. |
+| Nhận diện và tiêu đề trang nhất quán | Chưa đạt | Nội dung trang giới thiệu Trần Đức Chí Hưng nhưng phần tử `<title>` ghi “Trần Đức Chí Hưng · Frontend Developer”. |
 | Khả năng sử dụng bằng bàn phím và công nghệ hỗ trợ | Cần cải thiện | Có nhãn điều hướng và một số nội dung ngữ nghĩa; chưa thực hiện kiểm tra bàn phím, screen reader, độ tương phản hoặc focus. |
 | Tương thích đa trình duyệt | Cần cải thiện | Chưa có kết quả kiểm tra trên Chrome, Firefox, Edge hoặc Safari. |
 
